@@ -1,18 +1,21 @@
-# Salesforce DX Project: Next Steps
+# BMI Calculator - Built with Salesforce LWC
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+# Project Overview:
+The BMI Calculator is a web app that calculates Body Mass Index (BMI) using Salesforce Lightning Web Components (LWC) and SLDS. Users can input their height and weight, and the app provides instant BMI results with classifications (Underweight, Healthy, Overweight, Obese) in a responsive design.
 
-## How Do You Plan to Deploy Your Changes?
+# Key Features
+Instant BMI Calculation and Classification
+Responsive Design using Salesforce Lightning Design System
+User-Friendly Input Forms for seamless interaction
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+# Technologies Used
+Salesforce LWC: For component-based UI
+SLDS: Ensures a consistent, responsive layout
+HTML, CSS, JavaScript: Core technologies for structure, style, and interactivity
 
-## Configure Your Salesforce DX Project
+# Future Enhancements
+User profiles with saved history
+Data visualization for BMI trends
+Expanded health metrics and mobile app potential
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+# Explore the Project: https://abhijitpandit-dev-ed.develop.my.site.com/bmi-calculator(https://abhijitpandit-dev-ed.develop.my.site.com/bmi-calculator)
